@@ -14,6 +14,7 @@ export default function Login() {
         Lorem Ipsum is simply dummy text of the printing
         and typesetting industry.
       </Paragrafo>
+      <button type="button">Enviar</button>
     </Container>
   );
 }
