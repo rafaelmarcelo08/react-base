@@ -1,10 +1,12 @@
-
+import Login from "./pages/Login";
+import GlobalStyles from "./styles/GlobalStyles";
 
 function App() {
   return (
-    <h1>
-      Teste
-    </h1>
+    <>
+      <Login />
+      <GlobalStyles />
+    </>
   );
 }
 
