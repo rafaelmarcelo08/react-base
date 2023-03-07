@@ -1,6 +1,6 @@
 import React from "react";
 
-import {  } from "./style";
+import { } from "./style";
 import { Container } from "../../styles/GlobalStyles";
 
 export default function Page404() {
