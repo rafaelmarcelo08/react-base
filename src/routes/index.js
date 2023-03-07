@@ -8,7 +8,7 @@ import MyRoute from './MyRoute';
 export default function Routes() {
   return (
     <Switch>
-      <MyRoute path='/' component={Login} exact isClosed />
+      <MyRoute path='/' component={Login} exact />
       <MyRoute path='*' component={Page404} />
     </Switch>
   );
